@@ -1,0 +1,1 @@
+print("i pricess images and clasify them")
